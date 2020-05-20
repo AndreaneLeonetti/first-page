@@ -1,0 +1,119 @@
+html
+{
+	background: #303030;
+	
+}
+head
+{
+	font-family: Verdana, sans-serif;
+	
+}
+
+body
+{	
+	font-family: Verdana, sans-serif;
+	
+}
+
+title
+{
+}
+
+h1
+{
+	font-weight: lighter;
+	text-align: left;
+	color: white;
+}
+
+
+p.devenir-membre
+{
+	
+	font-size: xx-large;
+	color: white;
+	text-decoration: none;
+	text-align: center;
+	border: 3px red solid;
+	border-radius: 10px;
+	background: red;
+	height: 50px;
+    	display: flex;
+    	align-items: center;
+    	justify-content: center;
+	
+}
+
+
+
+p.gratuit
+{
+	
+	font-size: x-large;
+	color: gray;
+	text-align: center;
+}
+
+p.premium
+{
+	
+	font-size: x-large;
+	color: gray;
+	text-align: center;
+}
+
+p.bienvenue1
+{
+	font-size: xx-large;
+	color: white;
+	text-align: center;
+}
+
+p.bienvenue2
+{
+	font-size: x-large;
+	color: white;
+	text-align: center;
+}
+
+cite
+{
+	color: white;
+	
+}
+
+h2
+{
+	font-weight: lighter;
+	color: white;
+}
+
+ul
+{	
+	color: white;
+}
+
+li
+{
+	
+	list-style-type: none;
+}
+
+li:before
+{
+	content: "🐷️ ";
+}
+
+
+img
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto
+}
+
+a
+{
+	color: white;
+	text-decoration:none;
+}
